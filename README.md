@@ -17,9 +17,13 @@ with yarn
 yarn add @riyazurrazak/react-skeleton
 ```
 
+## Example
+
+CodeSandBox : [Demo](https://codesandbox.io/s/react-skeleton-loader-29e8h?file=/src/App.js)
+
 ## Usage
 
-example: [Exapmle](https://github.com/RiyazurRazak/react-skeleton-loader/tree/main/example)
+
 
 ```tsx
 import React from 'react'
