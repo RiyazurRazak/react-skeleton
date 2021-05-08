@@ -12,3 +12,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card{
+  margin: 20px;
+  width: 25%;
+  
+}
+
+.avatar_img{
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+}
+
+.skeleton_wrapper{
+  margin: 10px 0;
+}
+
+.dark{
+  padding: 30px;
+  background-color: #121212;
+  color: #ffffff;
+}

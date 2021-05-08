@@ -1,10 +1,18 @@
 {
   "name": "@riyazurrazak/react-skeleton",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "React based Skeleton animation component with full customisable themes.",
   "author": "RiyazurRazak",
   "license": "MIT",
   "repository": "RiyazurRazak/@riyazurrazak/react-skeleton",
+  "keywords": [
+    "react skeleton",
+    "animation",
+    "skeleton component",
+    "loader",
+    "dummy loader",
+    "skeleton animation"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -27,6 +35,7 @@
     "react": "^16.0.0"
   },
   "devDependencies": {
+    "@emotion/react": "^11.4.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -36,7 +45,6 @@
     "@types/react-dom": "^16.9.7",
     "@typescript-eslint/eslint-plugin": "^2.26.0",
     "@typescript-eslint/parser": "^2.26.0",
-    "microbundle-crl": "^0.13.10",
     "babel-eslint": "^10.0.3",
     "cross-env": "^7.0.2",
     "eslint": "^6.8.0",
@@ -50,6 +58,7 @@
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-standard": "^4.0.1",
     "gh-pages": "^2.2.0",
+    "microbundle-crl": "^0.13.10",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
     "react": "^16.13.1",
