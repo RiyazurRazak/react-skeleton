@@ -4,7 +4,8 @@
   "description": "React based Skeleton animation component with full customisable themes.",
   "author": "RiyazurRazak",
   "license": "MIT",
-  "repository": "RiyazurRazak/@riyazurrazak/react-skeleton",
+  "repository": "https://github.com/RiyazurRazak/react-skeleton",
+  "homepage": "https://github.com/RiyazurRazak/react-skeleton#readme",
   "keywords": [
     "react skeleton",
     "animation",
